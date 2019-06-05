@@ -15,3 +15,6 @@ See: [2D-Matérn](http://nbviewer.jupyter.org/github/Slowpuncher24/mlhiphy_v2/bl
 See: [2D example](http://nbviewer.jupyter.org/github/Slowpuncher24/mlhiphy_v2/blob/master/2D_example.ipynb) or [without noise](http://nbviewer.jupyter.org/github/Slowpuncher24/mlhiphy_v2/blob/master/without_noise.ipynb).
 
 The performance of other popular optimization algorithms like LBFGS-B and stochastic gradient descent algorithms was tested but turned out to be deficient.
+
+This repository is part of my master thesis, where I also discuss results of this repository.
+Some results can be found in the folder *some_results*.
