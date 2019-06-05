@@ -16,5 +16,8 @@ See: [2D example](http://nbviewer.jupyter.org/github/Slowpuncher24/mlhiphy_v2/bl
 
 The performance of other popular optimization algorithms like LBFGS-B and stochastic gradient descent algorithms was tested but turned out to be deficient.
 
-This repository is part of my master thesis, where I also discuss results of this repository.
 Some results can be found in the folder *some_results*.
+
+This repository is part of my master thesis, in which theory about Gaussian processes, a discussion of this setup and an analysis of the results of this algorithm can be found.
+
+
