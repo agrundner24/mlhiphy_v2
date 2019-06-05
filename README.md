@@ -27,4 +27,7 @@ In the folder *some_results* we can find results of some notebooks. We have used
 * g): [advection-diffusion](http://nbviewer.jupyter.org/github/Slowpuncher24/mlhiphy_v2/blob/master/advection_diffusion.ipynb)
 
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 62c822d82f3bd9ff9ce0bb70c629c9cda58b54cb
