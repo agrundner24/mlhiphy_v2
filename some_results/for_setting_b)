@@ -1,0 +1,65 @@
+Matérn
+======
+
+n = 5, s = 0, corr_nan = 1e-4
+
+Time: 88 seconds
+Time: 131 seconds
+Time: 201 seconds
+=> Variance: 2168.67
+
+Inferred parameter: 1.9991
+Inferred parameter: 1.9714
+Inferred parameter: 2.0733
+
+
+n = 10, s = 0, corr_nan = 1e-4
+
+Time: 85 seconds
+Time: 647 seconds
+Time: 544 seconds
+=> Variance: 59681.56
+
+Inferred parameter: 1.9411
+Inferred parameter: 1.9838
+Inferred parameter: 2.0605
+
+
+n = 20, s = 0, corr_nan = 1e-4
+
+Time: 1678 seconds
+Time: 1767 seconds
+Time: 1741 seconds
+=> Variance: 1396.22
+
+Inferred parameter: 1.9261
+Inferred parameter: 2.1527
+Inferred parameter: 2.0112
+
+
+n = 40, s = 0, corr_nan = 1e-4
+
+Time: 580 seconds
+Time: 603 seconds
+Time: 578 seconds
+=> Variance: 128.67
+
+Inferred parameter: 2.0731
+Inferred parameter: 2.0601
+Inferred parameter: 2.0556
+
+
+n = 60, s = 0, corr_nan = 1e-4
+
+Time: 11742 seconds
+Time: 1019 seconds
+Time: 1049 seconds
+=> Variance: 25480431
+
+Inferred parameter: 0.8617
+Inferred parameter: 0.6905
+Inferred parameter: 2.1746
+
+
+
+
