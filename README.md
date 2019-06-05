@@ -5,7 +5,7 @@ This repository builds upon and improves the work we did in https://github.com/r
 Improvements include:
 
 * A much more efficient and stable implementation of the negative log-likelihood. This vastly improves the algorithm, as the optimization of the negative log-likelihood is at its center. This was done by utilizing the block matrix structure of the covariance matrix and by using the Cholesky decomposition. See for instance in: [2D example](http://nbviewer.jupyter.org/github/Slowpuncher24/mlhiphy_v2/blob/master/2D_example.ipynb) or [3D example](http://nbviewer.jupyter.org/github/Slowpuncher24/mlhiphy_v2/blob/master/3D_example.ipynb).
-* The inference of up to four hidden parameters in three dimensions, as opposed to one hidden parameter in two dimensions (respectively counting the temporal dimension as one). 
+* The inference of up to four hidden parameters in three dimensions, as opposed to only one hidden parameter in two dimensions in mlhiphy (respectively counting the temporal dimension as one). 
 See: [advection-diffusion](http://nbviewer.jupyter.org/github/Slowpuncher24/mlhiphy_v2/blob/master/advection_diffusion.ipynb).
 * An alternative implementation of the negative log-likelihood for the noise-free case, where we can optimize over one hyperparameter less (the signal variance can be written in terms of other values).
 See: [without noise](http://nbviewer.jupyter.org/github/Slowpuncher24/mlhiphy_v2/blob/master/without_noise.ipynb).
