@@ -16,8 +16,14 @@ See: [2D example](http://nbviewer.jupyter.org/github/Slowpuncher24/mlhiphy_v2/bl
 
 The performance of other popular optimization algorithms like LBFGS-B and stochastic gradient descent algorithms was tested but turned out to be deficient.
 
-Some results can be found in the folder *some_results*.
+This repository is part of my master thesis, in which theory about Gaussian processes, a discussion of this setup and an analysis of the results of the algorithm can be found. Furthermore I write about other promising methods to infer parameters of PDEs with a concluding comparison.
 
-This repository is part of my master thesis, in which theory about Gaussian processes, a discussion of this setup and an analysis of the results of this algorithm can be found.
+In the folder *some_results* we can find results of some notebooks. Here the following abbreviations were used:
+
+* b): [2D-Matérn](http://nbviewer.jupyter.org/github/Slowpuncher24/mlhiphy_v2/blob/master/2D-Matérn.ipynb)
+* d): [3D example](http://nbviewer.jupyter.org/github/Slowpuncher24/mlhiphy_v2/blob/master/3D_example.ipynb)
+* e): [simple advection-diffusion](http://nbviewer.jupyter.org/github/Slowpuncher24/mlhiphy_v2/blob/master/advection_diffusion_simplified.ipynb)
+* f): [simple advection-diffusion with different data](http://nbviewer.jupyter.org/github/Slowpuncher24/mlhiphy_v2/blob/master/advection_diffusion_simplified_different_data.ipynb)
+* g): [advection-diffusion](http://nbviewer.jupyter.org/github/Slowpuncher24/mlhiphy_v2/blob/master/advection_diffusion.ipynb)
 
 
